@@ -1,0 +1,83 @@
+html {
+    font-family: 'Press Start 2P', cursive;
+    box-sizing: border-box;
+    z-index: 2;
+}
+
+header {
+    margin-top: 30px;
+    padding: 20px 30px;
+    background-color:seagreen;
+    color: white;
+}
+
+h2 {
+    margin: 50px;
+}
+
+.Tortetta-container {
+    width: 50%;
+}
+
+img {
+    float: left;
+    margin-left: 20px;
+}
+
+p {
+    float: left;
+    margin: 100px 30px;
+}
+
+h1 {
+    width: 50%;
+    display: inline;
+}
+
+a {color: white;
+    display: inline;
+    float: right;
+    margin-right: 20px;
+    padding: 5px;
+    border: white solid;
+}
+
+.video-container {
+    margin: 150px 50px;
+    width: 50%;
+}
+
+.video-text {
+    float: right;
+}
+
+.table-container {
+    margin: 150px 50px;
+    width: 50%;
+}
+
+table {
+    border: solid seagreen;
+}
+
+th {
+    text-align: center;
+    padding: 20px 50px;
+}
+
+td {
+    border: solid seagreen;
+    padding: 20px 50px;
+}
+
+.tabletext {
+    margin: 50px 0px;
+}
+
+footer {
+    width: 100%;
+    margin-top: 800px;
+    padding: 20px 30px;
+    background-color: seagreen;
+    color: white;
+}
